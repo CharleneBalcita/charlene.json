@@ -45,15 +45,6 @@
     "lng": 120.4687
   },
   {
-    "id": 210,
-    "name": "Splash Wave Resort",
-    "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place5.jpg",
-    "priceCurrency": "PHP",
-    "price": 150,
-    "lat": 16.3188,
-    "lng": 120.4687
-  },
-  {
     "id": 211,
     "name": "Kahuna Resort",
     "imageUrl": "https://raw.githubusercontent.com/Chegalinato/map/places/images/place6.jpg",
